@@ -1,0 +1,7 @@
+.display{
+ width: 90%;
+ margin-left: 12px;
+ margin-top: 10px;
+ border: 2px solid rgb(0, 0, 0);
+ font-size: 35px;
+}
